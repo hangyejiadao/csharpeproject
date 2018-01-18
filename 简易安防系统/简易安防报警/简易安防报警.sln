@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简易安防报警", "简易安防报警\简易安防报警.csproj", "{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "视频", "视频\视频.csproj", "{3FCF2599-4F63-4F1F-A221-D745C1E8A865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Debug|x86.ActiveCfg = Debug|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Debug|x86.Build.0 = Debug|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Release|Any CPU.ActiveCfg = Release|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Release|x86.ActiveCfg = Release|x86
+		{90C7DD0E-3907-40C4-B9E0-FDE2416E248B}.Release|x86.Build.0 = Release|x86
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3FCF2599-4F63-4F1F-A221-D745C1E8A865}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\bin\Debug\视频.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\bin\Debug\视频.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\视频.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\视频.UserControl1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\视频.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\视频\obj\Debug\视频.pdb
+I:\简易安防报警\视频\bin\Debug\视频.dll
+I:\简易安防报警\视频\bin\Debug\视频.pdb
+I:\简易安防报警\视频\obj\Debug\视频.csprojResolveAssemblyReference.cache
+I:\简易安防报警\视频\obj\Debug\视频.Properties.Resources.resources
+I:\简易安防报警\视频\obj\Debug\视频.UserControl1.resources
+I:\简易安防报警\视频\obj\Debug\视频.csproj.GenerateResource.Cache
+I:\简易安防报警\视频\obj\Debug\视频.dll
+I:\简易安防报警\视频\obj\Debug\视频.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\bin\Debug\视频.dll
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\bin\Debug\视频.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.Properties.Resources.resources
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.UserControl1.resources
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.dll
+C:\Users\Administrator\Desktop\123\简易安防报警\视频\obj\Debug\视频.pdb

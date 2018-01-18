@@ -1,0 +1,54 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\bin\Debug\简易安防报警.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\bin\Debug\简易安防报警.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\bin\Debug\XianDai.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\bin\Debug\视频.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\bin\Debug\视频.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.pdb
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.exe
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.pdb
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\bin\Debug\简易安防报警.exe
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\bin\Debug\简易安防报警.pdb
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\bin\Debug\视频.dll
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\bin\Debug\视频.pdb
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Form1.resources
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Properties.Resources.resources
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\简易安防报警\简易安防报警\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.exe
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.pdb
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csprojResolveAssemblyReference.cache
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Form1.resources
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Properties.Resources.resources
+I:\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csproj.GenerateResource.Cache
+I:\简易安防报警\简易安防报警\bin\Debug\简易安防报警.exe
+I:\简易安防报警\简易安防报警\bin\Debug\简易安防报警.pdb
+I:\简易安防报警\简易安防报警\bin\Debug\视频.dll
+I:\简易安防报警\简易安防报警\bin\Debug\视频.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.exe
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\bin\Debug\简易安防报警.exe
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\bin\Debug\简易安防报警.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\bin\Debug\视频.dll
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\bin\Debug\视频.pdb
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Form1.resources
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Properties.Resources.resources
+C:\Users\Administrator\Desktop\123\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csproj.GenerateResource.Cache
+M:\简易安防系统\简易安防报警\简易安防报警\bin\Debug\简易安防报警.exe
+M:\简易安防系统\简易安防报警\简易安防报警\bin\Debug\简易安防报警.pdb
+M:\简易安防系统\简易安防报警\简易安防报警\bin\Debug\视频.dll
+M:\简易安防系统\简易安防报警\简易安防报警\bin\Debug\视频.pdb
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csprojResolveAssemblyReference.cache
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Form1.resources
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.Properties.Resources.resources
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csproj.GenerateResource.Cache
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.csproj.CoreCompileInputs.cache
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.exe
+M:\简易安防系统\简易安防报警\简易安防报警\obj\x86\Debug\简易安防报警.pdb
